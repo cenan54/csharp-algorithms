@@ -24,7 +24,7 @@ namespace TwoSum.Solution
                 }
             }
 
-            throw new Exception("listedekiler hedefi tamamlamıyor");
+            throw new Exception("numbers in array doesn't match with target");
         }
     }
 }

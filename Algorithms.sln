@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{BD9DB629-C00F-4C4A-9529-76A0564550FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome Number", "Palindrome Number\Palindrome Number.csproj", "{D449E4C8-DBDD-442E-B100-CDFB98ADB40C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BD9DB629-C00F-4C4A-9529-76A0564550FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD9DB629-C00F-4C4A-9529-76A0564550FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD9DB629-C00F-4C4A-9529-76A0564550FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D449E4C8-DBDD-442E-B100-CDFB98ADB40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D449E4C8-DBDD-442E-B100-CDFB98ADB40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D449E4C8-DBDD-442E-B100-CDFB98ADB40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D449E4C8-DBDD-442E-B100-CDFB98ADB40C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
